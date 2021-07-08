@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "tail_recursion"
-version = "1.0.0"
-description = ""
+version = "1.0.1"
+description = "Tail call recursion in Python"
 authors = ["Incomplete <incomplete@aixon.co>"]
 
 [tool.poetry.dependencies]
