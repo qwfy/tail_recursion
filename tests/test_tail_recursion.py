@@ -3,7 +3,7 @@ from typing import List
 from tail_recursion import tail_recursive
 from tail_recursion import TailRecursion
 
-def test_version():
+def test_tail_recursive():
 
     @tail_recursive
     def cum_sum(xs: List[int], sums: List[int], cur_sum: int):
