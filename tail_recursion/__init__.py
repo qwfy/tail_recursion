@@ -48,7 +48,7 @@ assert cum_sum([2, 3, 5, 7, 11], [], 0) == [2, 5, 10, 17, 28]
 ```
 """
 
-__version__ = '1.1.0'
+__version__ = '1.1.1'
 
 from ._impl import TailRecursion
 from ._impl import tail_recursive
